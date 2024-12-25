@@ -1,1 +1,2 @@
-# Hands on leetcode problems
+# Repo for exploring and solving leetcode problems
+
